@@ -1,0 +1,11 @@
+lydekos	2 1 4 20
+kirsliai 3 1 5 15
+sterkai	3 1 5 20
+salaciai 4 1 5 15
+karsiai(Nemuno_deltos_regioninio_parko_teritorijoje_isskyrus_zvejyba_polderiuose) 4 20 5 20
+ziobriai 5 15 6 15
+margieji_upetakiai 10 1 12 31
+sykai 10 1 12 31
+siauraznypliai_veziai 10 15 7 15
+samai 11 1 4 1
+vegeles 12 15 1 15

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589222862 source:d:\dalykai\programavimas\c++\bandymai\zvejybosdraudimai\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<iomanip>
+	<algorithm>
+
