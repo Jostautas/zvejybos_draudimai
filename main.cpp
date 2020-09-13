@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
-#include <ctime>
-#include <chrono>
+//#include <ctime> // uncomment for compatibility with windows
+//#include <chrono> // uncomment for compatibility with windows
 
 using namespace std;
 
